@@ -13,6 +13,7 @@ URI = https://api-homologacao.getnet.com.br/;
 4)	Obs: Para utilizar estes endpoints é necessário realizar a autenticação conforme as instruções de documentação.
 
 Chaves de Autenticação:
+
         Client ID: 67823c6d-58de-494f-96d9-86a4c22682cb
 
         Client Secret: c2d6a06f-5f31-448b-9079-7e170e8536e4
