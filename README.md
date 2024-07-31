@@ -2,8 +2,11 @@
 
 Prática de API
 Desenvolva o script da automação seguindo as informações a seguir: 
-Documentação = https://developers.getnet.com.br/api;
+
+Documentação = https://developers.getnet.com.br/api
+
 URI = https://api-homologacao.getnet.com.br/;
+
 1)	Validar o script de "TOKENZAÇÃO" método "POST” cobertura de testes em API
 2)	Validar cobertura de Status Code, Campos obrigatórios e Contrato
 3)	Desenvolver com POJOs. 
