@@ -13,11 +13,11 @@ URI = https://api-homologacao.getnet.com.br/;
   	
 3)	Validar cobertura de Status Code, Campos obrigatórios e Contrato
 
-  	R: Ver arquivos: validacaoDeTokenizacaoDebitoCredito.spec.js e 
+  	R: Ver arquivos: Valida Regras AcessToken.spec.js e Valida Status Code.spec.js
         
 5)	Desenvolver com POJOs.
 
-  	R: Os POJOs entendo que sejam em java, fiquei procurando na Internet quase a madrugada toda, e não achei mensão alguma a Cypress.
+  	R: Os POJOs entendo que sejam em java, fiquei procurando na Internet quase a madrugada toda, e não achei mensão alguma em Cypress.
 
 Obs: Para utilizar estes endpoints é necessário realizar a autenticação conforme as instruções de documentação.
 
