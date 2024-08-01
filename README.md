@@ -1,6 +1,7 @@
 # prova-API-QA-Emidio
 
 Prática de API
+
 Desenvolva o script da automação seguindo as informações a seguir: 
 
 Documentação = https://developers.getnet.com.br/api
