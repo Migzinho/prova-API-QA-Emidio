@@ -8,9 +8,15 @@ Documentação = https://developers.getnet.com.br/api
 URI = https://api-homologacao.getnet.com.br/;
 
 1)	Validar o script de "TOKENZAÇÃO" método "POST” cobertura de testes em API
-2)	Validar cobertura de Status Code, Campos obrigatórios e Contrato
-3)	Desenvolver com POJOs. 
-4)	Obs: Para utilizar estes endpoints é necessário realizar a autenticação conforme as instruções de documentação.
+        R: Ver arquivos: tokenizacao.spec.js
+  	
+3)	Validar cobertura de Status Code, Campos obrigatórios e Contrato
+        R: Ver arquivos: validacaoDeTokenizacaoDebitoCredito.spec.js e 
+        
+4)	Desenvolver com POJOs.
+        R: Os POJOs entendo que sejam em java, fiquei procurando na Internet quase a madrugada toda, e não achei mensão alguma a Cypress.
+
+Obs: Para utilizar estes endpoints é necessário realizar a autenticação conforme as instruções de documentação.
 
 Chaves de Autenticação:
 
